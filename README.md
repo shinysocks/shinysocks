@@ -1,4 +1,5 @@
 ## Good morning, I'm shinysocks!
+- No, my socks are not shiny.
 - I'm a Junior at Ronald Reagan High school and I love cats. 🐈‍⬛
 - Check out my [website](https://shinysocks.net) to learn more about me!
 - Linux forever!
