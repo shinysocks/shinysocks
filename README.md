@@ -1,12 +1,20 @@
-## Good morning, I'm shinysocks!
-<div id="badges">
-  <a href="https://github.com/shinysocks" target="_blank">
-    <img alt="GitHub followers" src="https://img.shields.io/github/followers/shinysocks?color=%23b4befe&logo=github&logoColor=%23b4befe&style=for-the-badge">
+## BE KIND.
+
+<div>
+  <a href="https://linkedin.com/in/noah-dinan" target="_blank">
+    <img alt="linkedin" src="https://img.shields.io/badge/linkedin-follow?color=%23b4befe&logo=linkedin&logoColor=%23000000&style=for-the-badge">
+  </a>  
+
+  <a href="https://discord.com/users/708900893021437982" target="_blank">
+    <img alt="discord" src="https://img.shields.io/badge/discord-friend?color=%23b4befe&logo=discord&logoColor=%23000000&style=for-the-badge">
   </a>
+
   <a href="https://shinysocks.net" target="_blank">
-  <img alt="Website" src="https://img.shields.io/website?down_color=%23f38ba8&down_message=down&label=shinysocks.net&style=for-the-badge&up_color=%23a6e3a1&up_message=up&url=https%3A%2F%2Fshinysocks.net">
-   </a>
+    <img alt="website" src="https://img.shields.io/website?down_color=%23f38ba8&down_message=down&label=shinysocks.net&up_color=%23a6e3a1&up_message=up&url=https%3A%2F%2Fshinysocks.net&style=for-the-badge">
+  </a>
 </div>
 
-- I'm a Junior at Ronald Reagan High school and I love cats. 🐈‍⬛
-- Yea, I still hate Github. (*microsoft is evil*)
+### About me
+- IB DP Student at Ronald Reagan High school
+- I love cats, linux, and videogames
+- and yea, I still hate Github. (*microsoft is evil*)
