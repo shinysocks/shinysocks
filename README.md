@@ -8,6 +8,5 @@
    </a>
 </div>
 
-- No, my socks are not shiny.
 - I'm a Junior at Ronald Reagan High school and I love cats. 🐈‍⬛
 - Yea, I still hate Github. (*microsoft is evil*)
