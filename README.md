@@ -18,9 +18,9 @@
   </a>
 </div>
 
-### About me
+### about me
 - IB DP Student at Ronald Reagan High school
-- Baritone vocalist
-- Currently hosting shiny's swamp!
+- baritone vocalist
+- currently hosting shiny's swamp!
 - I love cats, linux, and videogames
 - and yea, I still hate Github. (*microsoft is evil*)
