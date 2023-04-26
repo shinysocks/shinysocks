@@ -28,6 +28,6 @@
   and yea, I still hate Github. (*microsoft is evil*)
 
   ### skills & interests
-  [![My Skills](https://skillicons.dev/icons?i=linux,python,java,git,nginx,bash,docker,vscode,unity,cs,js,html,css,rust,replit&perline=5)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=linux,python,java,git,nginx,bash,docker,vscode,unity,cs,js,html,css,rust,bevy&perline=5)](https://skillicons.dev)
 
 </div>
