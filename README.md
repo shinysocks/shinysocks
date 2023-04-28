@@ -1,5 +1,6 @@
 <div align="center">
   <h1>goodmorning, i'm shinysocks!</h1>
+    
   <a href="https://linkedin.com/in/noah-dinan" target="_blank">
     <img alt="linkedin" src="https://img.shields.io/badge/linkedin-follow?color=%23b4befe&logo=linkedin&logoColor=%23000000&style=for-the-badge">
   </a>  
@@ -15,6 +16,9 @@
   <a href="https://shinysocks.net" target="_blank">
     <img alt="website" src="https://img.shields.io/website?down_color=%23f38ba8&down_message=down&label=shinysocks.net&up_color=%23a6e3a1&up_message=up&url=https%3A%2F%2Fshinysocks.net&style=for-the-badge">
   </a>
+  
+  ### support shiny's swamp!!
+  <a href='https://ko-fi.com/V7V0KSBRJ' target='_blank'><img height='36' style='border:0px;height:36px;' src='https://storage.ko-fi.com/cdn/kofi5.png?v=3' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
 
   ### about me
   IB DP Student at Ronald Reagan High school
