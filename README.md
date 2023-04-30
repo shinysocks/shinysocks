@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>goodmorning, i'm shinysocks!</h1>
+  <h1>hey, i'm shinysocks!</h1>
     
   <a href="https://linkedin.com/in/noah-dinan" target="_blank">
     <img alt="linkedin" src="https://img.shields.io/badge/linkedin-follow?color=%23b4befe&logo=linkedin&logoColor=%23000000&style=for-the-badge">
