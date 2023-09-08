@@ -1,6 +1,6 @@
 <div align=center>
   <h2>hey, i'm shinysocks!</h2>
-  <h2>mirror of my repos at: <a href="https://git.shinysocks.net/shinysocks">git.shinysocks.net</a> </h2>
+  <h2>all my repos now at: <a href="https://git.shinysocks.net/shinysocks">git.shinysocks.net</a> </h2>
   <p>if you want to learn more about me, check out my <a href="https://shinysocks.net">website</a></p>
   
   <a href="https://xkcd.com/345/">
