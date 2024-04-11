@@ -4,7 +4,7 @@ Hello, my name is Noah Dinan and I am a senior at Ronald Reagan College Prep Hig
 
 Check out my [resume](https://shinysocks.net/share/resume.pdf)!
 
-I ❤️ cats, computer programming, singing, and gaming on linux! Some of my favorite games are Terraria, Inscryption, Outer Wilds, Stray, Baldur's Gate 3, Night in the Woods, and Barony.
+I ❤️ cats, computer programming, singing, and gaming on linux! I've recently been playing: Rain World, Barony, Starbound, Barotrauma, and Baldur's Gate 3
 
 ---
 ## [skills & interests]
