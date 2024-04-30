@@ -17,13 +17,17 @@ I currently host shinysocks.net on rocket.rs & docker on a Raspberry Pi Zero 2 W
 
 ---
 ## [projects]
+### [modulartelebot](https://github.com/shinysocks/modulartelebot)
+*Spring 2024*
+
+Created an extensible telegram bot using Java's OOP principles with my friend [Michael Shalewski](https://github.com/jagernet-ops).
 
 ### [maths ia](https://shinysocks.net/share/maths.pdf)
 *Winter 2024*
 
 For my IB Mathematics Internal Assessment I explored modeling the theoretical and experimental time complexity for the Bubble Sort algorithm.
 
-### [cliradio](https://github.com/shinysocks/cliradio#cliradio)
+### [cliradio](https://github.com/shinysocks/cliradio)
 *Winter 2024*
 
 For the IB Computer Science Internal Assessment I wrote a commandline audio streaming program in Java. It allows users to stream audio from either a microphone or internally (with Pipewire) over a LAN.
