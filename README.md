@@ -1,4 +1,4 @@
-[shinysocks.net](https://shinysocks.net)
+### [shinysocks.net](https://shinysocks.net)
 ## [about me]
 Hello, my name is Noah Dinan and I am a senior at Ronald Reagan College Prep High School. I am a part of the IB full Diploma Programme and [FIRST Robotics Team 1675](https://frc1675.com). I plan to attend MSOE for Computer Engineering after high school graduation.
 
