@@ -13,7 +13,8 @@ I ❤️ cats, computer programming, singing, and gaming on linux! I've recently
 
 On my personal laptop, I daily drive Debian and have enjoyed configuring and customizing it while learning my way around a linux environment. Recently, I've been loving the [helix](https://helix-editor.com) modal editor.
 
-I currently host shinysocks.net on rocket.rs & docker on a Raspberry Pi Zero 2 W. Check out the code on github: [shinysocks/shinysocks.net](https://github.com/shinysocks/shinysocks.net)
+shinysocks.net is hosted on github pages, check out the code here: [shinysocks/shinysocks.net](https://github.com/shinysocks/shinysocks.net)
+and share.shinysocks.net serves files from my Raspberry Pi Zero 2 W using docker and rocket.rs.
 
 ---
 ## [projects]
