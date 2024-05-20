@@ -4,7 +4,7 @@ Hello, my name is Noah Dinan and I am a senior at Ronald Reagan College Prep Hig
 
 Check out my [resume](https://shinysocks.net/share/resume.pdf)!
 
-I ❤️ cats, computer programming, singing, and gaming on linux! I've recently been playing: Rain World, Barony, Starbound, Barotrauma, and Baldur's Gate 3
+I ❤️ cats, computer programming, singing, and gaming on linux! I've recently been playing: Rain World, Barony, Magic: The Gathering, Starbound, and Barotrauma
 
 ---
 ## [skills & interests]
@@ -14,7 +14,7 @@ I ❤️ cats, computer programming, singing, and gaming on linux! I've recently
 On my personal laptop, I daily drive Debian and have enjoyed configuring and customizing it while learning my way around a linux environment. Recently, I've been loving the [helix](https://helix-editor.com) modal editor.
 
 shinysocks.net is hosted on github pages, check out the code here: [shinysocks/shinysocks.net](https://github.com/shinysocks/shinysocks.net)
-and share.shinysocks.net serves files from my Raspberry Pi Zero 2 W using docker and rocket.rs.
+and radio.shinysocks.net is tunneled to a web server on my laptop.
 
 ---
 ## [projects]
