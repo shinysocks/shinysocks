@@ -9,7 +9,7 @@ I ❤️ cats, computer programming, singing, and gaming on linux! I've recently
 ---
 ## [skills & interests]
 
-![](https://skillicons.dev/icons?i=linux,python,java,git,bash,docker,vscode,godot,unity,cs,rust&perline=6)
+![](https://skillicons.dev/icons?i=linux,python,java,git,bash,docker,vscode,godot,unity,cs,rust,react&perline=6)
 
 On my personal laptop, I daily drive Debian and have enjoyed configuring and customizing it while learning my way around a linux environment. Recently, I've been loving the [helix](https://helix-editor.com) modal editor.
 
