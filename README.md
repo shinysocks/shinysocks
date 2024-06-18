@@ -4,7 +4,7 @@ Hello, my name is Noah Dinan and I am a senior at Ronald Reagan College Prep Hig
 
 Check out my [resume](https://shinysocks.net/share/resume.pdf)!
 
-I ❤️ cats, computer programming, singing, and gaming on linux! I've recently been playing: Rain World, Barony, Magic: The Gathering, Starbound, and Barotrauma
+I ❤️ cats, computer programming, singing, and gaming on linux! I've recently been playing: Generation Zero, Rain World, Barony, Magic: The Gathering, Overwatch and Barotrauma
 
 ---
 ## [skills & interests]
