@@ -4,7 +4,7 @@ Hello, my name is Noah Dinan and I recently graduated from Ronald Reagan College
 
 Check out my [resume](https://shinysocks.net/share/resume.pdf)!
 
-I ❤️ cats, computer programming, singing, and gaming on linux! I've recently been playing: Generation Zero, Rain World, Barony, Magic: The Gathering, Overwatch and Barotrauma
+I ❤️ cats, computer programming, singing, cycling, and gaming on linux! I've recently been playing: Generation Zero, Rain World, Barony, Magic: The Gathering, Overwatch and Barotrauma
 
 ---
 ## [skills & interests]
