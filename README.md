@@ -14,7 +14,7 @@ I ❤️ cats, computer programming, singing, and gaming on linux! I've recently
 On my personal laptop, I daily drive Debian and have enjoyed configuring and customizing it while learning my way around a linux environment. Recently, I've been loving the [helix](https://helix-editor.com) modal editor.
 
 shinysocks.net is hosted on github pages, check out the code here: [shinysocks/shinysocks.net](https://github.com/shinysocks/shinysocks.net)
-and [radio.shinysocks.net](radio.shinysocks.net) is tunneled to a web server on my laptop (and has accordingly unreliable uptime).
+and [radio.shinysocks.net](https://radio.shinysocks.net) is tunneled to a web server on my laptop (and has accordingly unreliable uptime).
 
 ---
 ## [projects]
