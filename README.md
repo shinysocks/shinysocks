@@ -2,7 +2,7 @@
 ## [about me]
 Hello, my name is Noah Dinan and I recently graduated from Ronald Reagan College Prep High School with Valedictorian honors. I am an FRC alumni from [FIRST Robotics Team 1675](https://frc1675.com). I plan to attend MSOE for Software Engineering in the fall.
 
-Check out my [resume](https://shinysocks.net/share/resume.pdf)!
+Check out my [resume](https://shinysocks.net/resume.pdf)!
 
 I ❤️ cats, computer programming, singing, cycling, and gaming on linux! I've recently been playing: Generation Zero, Rain World, Barony, Magic: The Gathering, Overwatch and Barotrauma
 
