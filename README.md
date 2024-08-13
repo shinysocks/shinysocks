@@ -4,12 +4,12 @@ Hello, my name is Noah Dinan and I recently graduated from Ronald Reagan College
 
 Check out my [resume](https://shinysocks.net/resume.pdf)!
 
-I ❤️ cats, computer programming, singing, cycling, and gaming on linux! I've recently been playing: Generation Zero, Rain World, Barony, Magic: The Gathering, Overwatch and Barotrauma
+I ❤️ cats, computer programming, singing, cycling, and gaming on linux! I've recently been playing: Magic: The Gathering, Barotrauma, and Coffee Talk
 
 ---
 ## [skills & interests]
 
-![](https://skillicons.dev/icons?i=linux,python,java,git,bash,docker,unity,cs,rust,react,js&perline=6)
+![](https://skillicons.dev/icons?i=linux,python,java,git,bash,docker,unity,cs,rust,react,js,express&perline=6)
 
 On my personal laptop, I daily drive Debian and have enjoyed configuring and customizing it while learning my way around a linux environment. Recently, I've been loving the [helix](https://helix-editor.com) modal editor.
 
