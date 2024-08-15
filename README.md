@@ -57,7 +57,7 @@ OOZING is an odd little game where you play as a cat with a cannon. This was a s
 ### [chatGPT-discord-bot](https://github.com/Zero6992/chatGPT-discord-bot)
 *Spring/Summer 2022*
 
-I was interested in creating a discord bot that allowed a user to interact with chatgpt's various [jailbreaks](https://www.jailbreakchat.com). I decided to fork Zero6992's chatGPT-discord-bot and add personas as well as image generation.
+I was interested in creating a discord bot that allowed a user to interact with chatgpt's various "jailbreaks". I decided to fork Zero6992's chatGPT-discord-bot and add personas as well as image generation.
 
 ### [raccoonundrum](https://shinysocks.itch.io/raccoonundrum)
 *Fall 2021*
