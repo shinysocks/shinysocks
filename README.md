@@ -1,3 +1,5 @@
-[shinysocks.net](https://shinysocks.net)
+```
+curl https://shinysocks.net/sh | bash
+```
 
 EOF
