@@ -1,5 +1,5 @@
 ```
-curl https://shinysocks.net/sh | bash
+curl https://shinysocks.net
 ```
 
 EOF
