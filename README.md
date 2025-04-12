@@ -1,3 +1,3 @@
 ```
-curl https://shinysocks.net
+curl shinysocks.net
 ```
