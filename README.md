@@ -1,1 +1,1 @@
-# [ABOUT ME](https://shinysocks.net/about.txt)
+# [ABOUT ME](https://shinysocks.net/about)
