@@ -1,1 +1,1 @@
-# [STUFF I'VE DONE](https://shinysocks.net/PROJECT_LIST_FOR_CORPORATE_HIREABILITY.txt)
+# [ABOUT ME](https://shinysocks.net/about.txt)
